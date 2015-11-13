@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1447366908501" clover="3.2.0">
+	<project timestamp="1447366908501"  name="All Files" >
+		<metrics statements="21"  coveredstatements="21"  conditionals="38"  coveredconditionals="38"  methods="14"  coveredmethods="14"  elements="73"  coveredelements="73"  complexity="0"  packages="1"  files="1"  classes="1"  loc="57"  ncloc="57" />
+		<package name="src" >
+			<metrics statements="21"  coveredstatements="21"  conditionals="38"  coveredconditionals="38"  methods="14"  coveredmethods="14" />
+			<file name="event-manager-component.js"  path="/Users/yhtut/Js/workshop/src/event-manager-component.js" >
+				<metrics statements="21"  coveredstatements="21"  conditionals="38"  coveredconditionals="38"  methods="14"  coveredmethods="14" />
+				<line num="3"  count="1"  type="stmt" />
+				<line num="4"  count="1"  type="cond"  truecount="4"  falsecount="0" />
+				<line num="5"  count="3"  type="cond"  truecount="8"  falsecount="0" />
+				<line num="6"  count="3"  type="cond"  truecount="10"  falsecount="0" />
+				<line num="7"  count="3"  type="cond"  truecount="4"  falsecount="0" />
+				<line num="8"  count="3"  type="cond"  truecount="2"  falsecount="0" />
+				<line num="9"  count="1"  type="cond"  truecount="10"  falsecount="0" />
+				<line num="11"  count="3"  type="stmt" />
+				<line num="12"  count="3"  type="stmt" />
+				<line num="14"  count="3"  type="stmt" />
+				<line num="21"  count="1"  type="stmt" />
+				<line num="23"  count="3"  type="stmt" />
+				<line num="28"  count="4"  type="stmt" />
+				<line num="29"  count="3"  type="stmt" />
+				<line num="35"  count="3"  type="stmt" />
+				<line num="38"  count="4"  type="stmt" />
+				<line num="47"  count="1"  type="stmt" />
+				<line num="48"  count="1"  type="stmt" />
+				<line num="53"  count="1"  type="stmt" />
+				<line num="54"  count="1"  type="stmt" />
+				<line num="57"  count="1"  type="stmt" />
+			</file>
+		</package>
+	</project>
+</coverage>
